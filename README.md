@@ -2,7 +2,7 @@
 # **Customer Churn Classification**
 
 ## **📌 Overview**
-This project builds a robust **churn prediction model** using **time-series data**. The model classifies whether a customer will **churn** between **Jan 1, 2024 – Feb 28, 2024**, based on their transaction history.
+This project builds a robust **churn prediction model** using **time-series data**. The model classifies whether a customer will **churn** between **Jan 1, 2024 – Jan 1, 2024**, based on their transaction history.
 
 The dataset contains:
 - **Customer transactions over 2023**
