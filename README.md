@@ -40,6 +40,7 @@ This will:
 
 ## **📊 Feature Engineering**
 To improve model accuracy, the following features were engineered:
+
 1️⃣ **`normalized_inactivity`** → Time since last transaction, adjusted for tenure  
 2️⃣ **`spending_change`** → Rolling spending trends (helps detect declining users)  
 3️⃣ **`standard_plan_risk`** → Higher risk for Standard plan users based on inactivity  
